@@ -1,0 +1,34 @@
+name: RAS Obras - atualizar dados (leitura)
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"   # rede de segurança: a cada 1h (pega edições feitas direto no Notion)
+  workflow_dispatch: {}
+  repository_dispatch:
+    types: [ras_obras_update]  # disparado pelo Apps Script deste projeto
+
+# Se dois eventos chegarem quase juntos, roda um de cada vez (não cancela o que já começou).
+concurrency:
+  group: ras-obras-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # necessário para o git push no final do job
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 fetch_ras.py
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+      - run: |
+          git config user.name "ras-bot"
+          git config user.email "ras-bot@morais"
+          git add dist/*.json
+          git commit -m "RAS Obras: atualizar dados" || echo "sem mudanças"
+          git pull --rebase -X theirs origin main
+          git push
