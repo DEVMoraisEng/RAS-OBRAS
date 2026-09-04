@@ -1,6 +1,62 @@
 {
-  "geradoEm": "2026-09-04T15:25:49",
-  "statusOptions": [],
-  "setorOptions": [],
-  "atividades": []
+  "geradoEm": "2026-09-04T15:41:46",
+  "statusOptions": [
+    "Continuidade da Semana Anterior",
+    "A Fazer",
+    "Em Andamento",
+    "Concluído",
+    "Pendente"
+  ],
+  "setorOptions": [
+    "Guilherme",
+    "Isaac",
+    "João Vitor",
+    "João Marcos"
+  ],
+  "atividades": [
+    {
+      "id": "3d0c5ab5-32d3-8003-942f-ca0abd722b37",
+      "nome": "",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "",
+      "status": "",
+      "semana": "",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3d0c5ab5-32d3-806b-b5b9-d2f7d466e358",
+      "nome": "",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "",
+      "status": "",
+      "semana": "",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3d0c5ab5-32d3-8089-8a71-d88276c3ec71",
+      "nome": "",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "",
+      "status": "",
+      "semana": "",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3d0c5ab5-32d3-8078-8cce-ebd927597cf8",
+      "nome": "",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "",
+      "status": "",
+      "semana": "",
+      "obs": "",
+      "origem": ""
+    }
+  ]
 }
