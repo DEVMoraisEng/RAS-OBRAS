@@ -1,0 +1,42 @@
+name: RAS Obras - rollover semanal + atualizar dados
+
+on:
+  schedule:
+    # 02:17 UTC de quinta = 23:17 (horário de Brasília) de QUARTA.
+    # A semana da RAS Obras vira na QUINTA: a rotina roda na noite de quarta e
+    # joga as pendências para a quinta que começa no dia seguinte.
+    # (Minuto quebrado de propósito: o GitHub atrasa as agendas marcadas em
+    # cima da hora cheia.)
+    - cron: "17 2 * * 4"
+  workflow_dispatch: {}   # também pode rodar manualmente pelo GitHub
+
+jobs:
+  rollover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # necessário para o git push no final do job
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Empurrar atividades não concluídas para a semana atual
+        run: python3 rollover_semana.py
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+
+      - name: Gerar JSON atualizado para o site
+        run: python3 fetch_ras.py
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+
+      - name: Publicar o JSON atualizado
+        run: |
+          git config user.name "ras-bot"
+          git config user.email "ras-bot@morais"
+          git add dist/*.json
+          git commit -m "RAS Obras: rollover semanal + atualização de dados" || echo "sem mudanças"
+          git pull --rebase -X theirs origin main
+          git push
