@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-10T19:47:43",
+  "geradoEm": "2026-09-10T20:12:19",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -13,5 +13,94 @@
     "João Vitor",
     "João Marcos"
   ],
-  "atividades": []
+  "atividades": [
+    {
+      "id": "3d7c5ab5-32d3-81b7-853e-eab6470caee8",
+      "nome": "Definir sobre traços de concreto/argamassa de reboco e assentamento",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-10",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "3d7c5ab5-32d3-8144-a11e-e697f26fff22",
+      "nome": "Definir sobre traços de concreto/argamassa de reboco e assentamento",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-10",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3d7c5ab5-32d3-81c8-aa5f-cf98672d74d4",
+      "nome": "Definir sobre traços de concreto/argamassa de reboco e assentamento",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-10",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "3d7c5ab5-32d3-819a-a279-e557ad38b177",
+      "nome": "Definir sobre traços de concreto/argamassa de reboco e assentamento",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-10",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "3d7c5ab5-32d3-81f2-a55e-c932874bdf16",
+      "nome": "Discutir sobre cronograma de obra",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-10",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "3d7c5ab5-32d3-818f-8252-dc15b0eecb51",
+      "nome": "Discutir sobre cronograma de obra",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-10",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "3d7c5ab5-32d3-8163-a7ab-ccbd6a13d02a",
+      "nome": "Discutir sobre cronograma de obra",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-10",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "3d7c5ab5-32d3-811c-bc97-e365a7b91c5a",
+      "nome": "Discutir sobre cronograma de obra",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-10",
+      "obs": "",
+      "origem": ""
+    }
+  ]
 }
