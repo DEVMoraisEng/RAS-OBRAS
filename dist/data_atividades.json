@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T12:04:14",
+  "geradoEm": "2026-09-14T13:09:54",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "3dbc5ab5-32d3-8121-b289-da5174c05268",
+      "nome": "Rever sobre a execução real dos telhados, conforme atividade que criei no Notion",
+      "setor": "Isaac",
+      "responsavel": "",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "",
+      "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
+    },
     {
       "id": "3d7c5ab5-32d3-81b7-853e-eab6470caee8",
       "nome": "Definir sobre traços de concreto/argamassa de reboco e assentamento",
