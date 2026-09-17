@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-17T20:52:51",
+  "geradoEm": "2026-09-17T21:08:50",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,149 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "3dec5ab5-32d3-81d0-94f4-c90634c3e98f",
+      "nome": "Propor melhoria na estrutura do canteiro de obra",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-17",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3dec5ab5-32d3-81a4-8390-f31f4378eac4",
+      "nome": "Propor melhoria na estrutura do canteiro de obra",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-17",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3dec5ab5-32d3-81bb-b6e6-d49788e8688c",
+      "nome": "Propor melhoria na estrutura do canteiro de obra",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-17",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3dec5ab5-32d3-817d-bcd0-e46411aed2f6",
+      "nome": "Propor melhoria na estrutura do canteiro de obra",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-17",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3dec5ab5-32d3-81da-991e-c472f1283f41",
+      "nome": "Definir valor por km rodado",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-17",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › João Marcos"
+    },
+    {
+      "id": "3dec5ab5-32d3-81f4-8550-db309f7f19bf",
+      "nome": "Definir valor por km rodado",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-17",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › João Marcos"
+    },
+    {
+      "id": "3dec5ab5-32d3-815b-b711-dd95f0badb26",
+      "nome": "Definir valor por km rodado",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-17",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3dec5ab5-32d3-8140-a225-f956a838c8c6",
+      "nome": "Definir valor por km rodado",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-17",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › João Marcos"
+    },
+    {
+      "id": "3dec5ab5-32d3-81f8-98ab-c789a06ec4e9",
+      "nome": "Definir momento ideal de instalação do padrão e hidrômetro",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-24",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3dec5ab5-32d3-81ef-9ae5-f18f59d66a95",
+      "nome": "Definir momento ideal de instalação do padrão e hidrômetro",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-24",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3dec5ab5-32d3-81c8-88fa-c73b79d009b0",
+      "nome": "Definir momento ideal de instalação do padrão e hidrômetro",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-24",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3dec5ab5-32d3-813a-82f4-eb1608d5e87b",
+      "nome": "Definir momento ideal de instalação do padrão e hidrômetro",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-24",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3dec5ab5-32d3-81cd-af9f-ca718af50e17",
+      "nome": "Definir momento ideal de instalação do padrão e hidrômetro",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-24",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3dbc5ab5-32d3-8121-b289-da5174c05268",
       "nome": "Rever sobre a execução real dos telhados, conforme atividade que criei no Notion",
@@ -32,7 +175,7 @@
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-17",
+      "semana": "2026-09-24",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -54,7 +197,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-17",
+      "semana": "2026-09-24",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -65,7 +208,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-17",
+      "semana": "2026-09-24",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -76,7 +219,7 @@
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-17",
+      "semana": "2026-09-24",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -87,7 +230,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-17",
+      "semana": "2026-09-24",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -98,7 +241,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-17",
+      "semana": "2026-09-24",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
