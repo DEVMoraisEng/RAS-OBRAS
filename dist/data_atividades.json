@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-17T17:57:49",
+  "geradoEm": "2026-09-17T20:52:51",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -21,8 +21,8 @@
       "responsavel": "",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-17",
-      "obs": "",
+      "semana": "2026-09-24",
+      "obs": "Verificar com os mestres a possibildiade de utilziar apenas vigotas no madeiramento do telhado na caixa d'água e sobre o banheiro.",
       "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
     },
     {
@@ -43,8 +43,8 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-17",
-      "obs": "",
+      "semana": "2026-09-24",
+      "obs": "1º definir tipo de areia e brita por uso\n2º conferir o volume \n3º definir traço",
       "origem": ""
     },
     {
@@ -109,8 +109,8 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-17",
-      "obs": "",
+      "semana": "2026-09-24",
+      "obs": "Definir marcos para inicio de novas obras \nfazer cronograma encima da medição",
       "origem": ""
     }
   ]
