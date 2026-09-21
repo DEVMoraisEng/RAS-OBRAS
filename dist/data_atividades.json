@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-21T12:51:35",
+  "geradoEm": "2026-09-21T13:00:37",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,39 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "3e2c5ab5-32d3-8114-9239-cbdc90e25ca8",
+      "nome": "Rever sobre quando comprar os medidores",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "Em algumas obras acontece do processo de ligação ficar parado por meses porque os medidores foram comprado, ams por algum motivo não foi instalado ou algo esta impedindo de solicitar, creio que nas obras que não forem conseguir instalar com antecedência, ou ue saibam que vão ficar com amterial an frente poderiam deixar para pedir esses medidores no momento real de isntalçao, para que não fique como pendência no sistema",
+      "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
+    },
+    {
+      "id": "3e2c5ab5-32d3-810f-9f36-c551a95f4382",
+      "nome": "Rever sobre quando comprar os medidores",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "Em algumas obras acontece do processo de ligação ficar parado por meses porque os medidores foram comprado, ams por algum motivo não foi instalado ou algo esta impedindo de solicitar, creio que nas obras que não forem conseguir instalar com antecedência, ou ue saibam que vão ficar com amterial an frente poderiam deixar para pedir esses medidores no momento real de isntalçao, para que não fique como pendência no sistema",
+      "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
+    },
+    {
+      "id": "3e2c5ab5-32d3-81d5-a7af-cb06bb21bb8e",
+      "nome": "Rever sobre quando comprar os medidores",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "Em algumas obras acontece do processo de ligação ficar parado por meses porque os medidores foram comprado, ams por algum motivo não foi instalado ou algo esta impedindo de solicitar, creio que nas obras que não forem conseguir instalar com antecedência, ou ue saibam que vão ficar com amterial an frente poderiam deixar para pedir esses medidores no momento real de isntalçao, para que não fique como pendência no sistema",
+      "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
+    },
     {
       "id": "3e2c5ab5-32d3-818f-98d7-dfd4add1ccb8",
       "nome": "Terminar de definir a estrutura dos telhados e me informar a definição",
