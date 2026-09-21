@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-21T16:17:04",
+  "geradoEm": "2026-09-21T16:46:03",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -51,7 +51,7 @@
       "id": "3e2c5ab5-32d3-818f-98d7-dfd4add1ccb8",
       "nome": "Terminar de definir a estrutura dos telhados e me informar a definição",
       "setor": "Isaac",
-      "responsavel": "",
+      "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "A Fazer",
       "semana": "2026-09-21",
