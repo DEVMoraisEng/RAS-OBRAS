@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-21T09:43:06",
+  "geradoEm": "2026-09-21T12:51:35",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "3e2c5ab5-32d3-818f-98d7-dfd4add1ccb8",
+      "nome": "Terminar de definir a estrutura dos telhados e me informar a definição",
+      "setor": "Isaac",
+      "responsavel": "",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "",
+      "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
+    },
     {
       "id": "3dec5ab5-32d3-81d0-94f4-c90634c3e98f",
       "nome": "Propor melhoria na estrutura do canteiro de obra",
