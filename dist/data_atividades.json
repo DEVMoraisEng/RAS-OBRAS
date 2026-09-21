@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-21T16:46:03",
+  "geradoEm": "2026-09-21T17:01:52",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -153,7 +153,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-09-24",
+      "semana": "2026-09-17",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -164,7 +164,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-09-24",
+      "semana": "2026-09-17",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -175,7 +175,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-09-24",
+      "semana": "2026-09-17",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -186,7 +186,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-09-24",
+      "semana": "2026-09-17",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -197,7 +197,7 @@
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-09-24",
+      "semana": "2026-09-17",
       "obs": "",
       "origem": ""
     },
@@ -208,7 +208,7 @@
       "responsavel": "",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-24",
+      "semana": "2026-09-17",
       "obs": "Verificar com os mestres a possibildiade de utilziar apenas vigotas no madeiramento do telhado na caixa d'água e sobre o banheiro.",
       "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
     },
