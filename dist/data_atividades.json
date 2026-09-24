@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-24T18:16:54",
+  "geradoEm": "2026-09-24T20:19:09",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -207,9 +207,9 @@
       "setor": "Isaac",
       "responsavel": "",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-09-24",
-      "obs": "Verificar com os mestres a possibildiade de utilziar apenas vigotas no madeiramento do telhado na caixa d'água e sobre o banheiro.",
+      "obs": "Verificar com os mestres a possibildiade de utilziar apenas vigotas no madeiramento do telhado na caixa d'água e sobre o banheiro.\n\nConclusão: Telhados pequenos (banheiro e cx dagua) optou-se por utilizar apenas vigotas de 14cm, não será necessário a utilização de caibros",
       "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
     },
     {
@@ -220,7 +220,7 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-09-24",
-      "obs": "",
+      "obs": "Concreto estrutural (viga, pilares, lajes, estacas) - Brita 0 e Areia Grossa\n\nContrapiso sarrafeado - Brita 0 e Areia Grossa\n\nContrapiso desempenado - Brita 0 e Areia média\n\nReboco - Areia fina\n\nArgamassa de assentamento - Areia média",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
     {
