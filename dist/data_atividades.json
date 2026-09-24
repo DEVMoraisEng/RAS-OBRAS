@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-24T20:44:24",
+  "geradoEm": "2026-09-24T21:09:08",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -20,7 +20,7 @@
       "setor": "João Marcos",
       "responsavel": "João Marcos",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-09-24",
       "obs": "Em algumas obras acontece do processo de ligação ficar parado por meses porque os medidores foram comprado, ams por algum motivo não foi instalado ou algo esta impedindo de solicitar, creio que nas obras que não forem conseguir instalar com antecedência, ou ue saibam que vão ficar com amterial an frente poderiam deixar para pedir esses medidores no momento real de isntalçao, para que não fique como pendência no sistema",
       "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
@@ -76,7 +76,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-24",
+      "semana": "2026-10-01",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -131,7 +131,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-24",
+      "semana": "2026-10-01",
       "obs": "",
       "origem": ""
     },
@@ -153,7 +153,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-24",
+      "semana": "2026-10-01",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -175,7 +175,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-24",
+      "semana": "2026-10-01",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -252,7 +252,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-24",
+      "semana": "2026-10-01",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -274,8 +274,8 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-24",
-      "obs": "",
+      "semana": "2026-10-01",
+      "obs": "- Criar previsto e realizado com base nas medições do mestre de obra\n\n- Vincular o \"realizado\" com as medições semanais no mais controle\n\n- Definir prazos ideais para o \"previsto\" de cada serviço e cada variação de projeto",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
     {
