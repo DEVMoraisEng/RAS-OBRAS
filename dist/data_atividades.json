@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-24T20:19:09",
+  "geradoEm": "2026-09-24T20:44:24",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -198,7 +198,7 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-09-24",
-      "obs": "",
+      "obs": "CANEDO:\nInstalar somente a cx de hidrômetro no inicio da obra\n\nGOIÂNIA:\nInstalar após a finalização do reboco interno, executar muros externos e instalar padrão e cx de hidrômetro para depois executar contrapiso",
       "origem": ""
     },
     {
