@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-08T20:46:55",
+  "geradoEm": "2026-10-08T21:04:55",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,50 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "3f3c5ab5-32d3-81e9-91b1-c72a7fbc468d",
+      "nome": "Vistoria Cliente - Fazer online \n\nCriar no portal da morais",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-15",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3f3c5ab5-32d3-8136-83db-e2ab13839c4b",
+      "nome": "Vistoria Cliente - Fazer online \n\nCriar no portal da morais",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-15",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3f3c5ab5-32d3-810f-a39d-c55f69235b8f",
+      "nome": "Vistoria Cliente - Fazer online \n\nCriar no portal da morais",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-15",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Isaac"
+    },
+    {
+      "id": "3f3c5ab5-32d3-81cb-ab33-cc0084567091",
+      "nome": "Vistoria Cliente - Fazer online \n\nCriar no portal da morais",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-15",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3e2c5ab5-32d3-8114-9239-cbdc90e25ca8",
       "nome": "Rever sobre quando comprar os medidores",
@@ -141,7 +185,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-08",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › João Marcos"
