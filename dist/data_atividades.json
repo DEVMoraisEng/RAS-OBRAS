@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-08T20:28:36",
+  "geradoEm": "2026-10-08T20:46:55",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -64,7 +64,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-08",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
@@ -230,7 +230,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-08",
+      "semana": "2026-10-15",
       "obs": "1º definir tipo de areia e brita por uso\n2º conferir o volume \n3º definir traço",
       "origem": ""
     },
@@ -295,8 +295,8 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-08",
+      "status": "Em Andamento",
+      "semana": "2026-10-15",
       "obs": "Definir marcos para inicio de novas obras \nfazer cronograma encima da medição",
       "origem": ""
     }
