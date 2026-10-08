@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-07T20:26:08",
+  "geradoEm": "2026-10-08T00:45:12",
   "statusOptions": [
     "Projeto Em Andamento",
     "Projeto Finalizado",
@@ -30,9 +30,9 @@
       "setor": "Portal do Oriente",
       "mes": "Outubro/2026",
       "status": "Nova Inclusão",
-      "previsao": "",
+      "previsao": "0020-10-03",
       "liberada": "NÃO",
-      "obs": ""
+      "obs": "ARRUMAR O ANO"
     },
     {
       "id": "3f2c5ab5-32d3-814d-9476-f5663c2630cf",
@@ -41,7 +41,7 @@
       "setor": "Portal do Oriente",
       "mes": "Outubro/2026",
       "status": "Nova Inclusão",
-      "previsao": "",
+      "previsao": "2026-11-03",
       "liberada": "NÃO",
       "obs": ""
     },
@@ -249,10 +249,10 @@
       "cidade": "Senador Canedo",
       "setor": "Terrabela",
       "mes": "Setembro/2026",
-      "status": "Projeto Finalizado",
+      "status": "Demanda Finalizada",
       "previsao": "2026-10-13",
       "liberada": "Sim",
-      "obs": "Orçamento arrimo liberado"
+      "obs": ""
     },
     {
       "id": "3b4c5ab5-32d3-8182-beeb-d3f091c753f8",
