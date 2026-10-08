@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-08T15:17:35",
+  "geradoEm": "2026-10-08T20:28:36",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -42,7 +42,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-08",
       "obs": "Em algumas obras acontece do processo de ligação ficar parado por meses porque os medidores foram comprado, ams por algum motivo não foi instalado ou algo esta impedindo de solicitar, creio que nas obras que não forem conseguir instalar com antecedência, ou ue saibam que vão ficar com amterial an frente poderiam deixar para pedir esses medidores no momento real de isntalçao, para que não fique como pendência no sistema",
       "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
@@ -185,7 +185,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-08",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
