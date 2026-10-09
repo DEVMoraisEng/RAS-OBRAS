@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-08T21:05:54",
+  "geradoEm": "2026-10-09T01:46:56",
   "statusOptions": [
     "Projeto Em Andamento",
     "Projeto Finalizado",
@@ -102,7 +102,7 @@
     },
     {
       "id": "3cdc5ab5-32d3-81c2-b77a-c078033018f5",
-      "nome": "MACEIO QD LT 71 C",
+      "nome": "MACEIO QD 129 LT 71C",
       "cidade": "Goiânia",
       "setor": "Petropolis",
       "mes": "Outubro/2026",
@@ -113,7 +113,7 @@
     },
     {
       "id": "3cdc5ab5-32d3-8115-a83f-f3c8eac209a8",
-      "nome": "MACEIO QD LT 71 B",
+      "nome": "MACEIO QD 129 LT 71B",
       "cidade": "Goiânia",
       "setor": "Petropolis",
       "mes": "Outubro/2026",
@@ -124,7 +124,7 @@
     },
     {
       "id": "3cdc5ab5-32d3-81f7-a790-dd6c639156e1",
-      "nome": "MACEIO QD LT 71 A",
+      "nome": "MACEIO QD 129 LT 71A",
       "cidade": "Goiânia",
       "setor": "Petropolis",
       "mes": "Outubro/2026",
