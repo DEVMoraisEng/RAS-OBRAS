@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-15T20:37:26",
+  "geradoEm": "2026-10-15T21:24:29",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -15,13 +15,57 @@
   ],
   "atividades": [
     {
-      "id": "3f3c5ab5-32d3-81e9-91b1-c72a7fbc468d",
-      "nome": "Vistoria Cliente - Fazer online \n\nCriar no portal da morais",
+      "id": "3fac5ab5-32d3-81dd-a657-c1950d8cf3a8",
+      "nome": "Discutir sobre fornecedores de portões e vidros",
       "setor": "João Marcos",
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "A Fazer",
       "semana": "2026-10-15",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "3fac5ab5-32d3-8108-89aa-eedfb8d894a1",
+      "nome": "Discutir sobre fornecedores de portões e vidros",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-15",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "3fac5ab5-32d3-816a-99da-f05cd5ce037c",
+      "nome": "Discutir sobre fornecedores de portões e vidros",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-15",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "3fac5ab5-32d3-8176-aeda-c4fc2041e830",
+      "nome": "Discutir sobre fornecedores de portões e vidros",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-15",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3f3c5ab5-32d3-81e9-91b1-c72a7fbc468d",
+      "nome": "Vistoria Cliente - Fazer online \n\nCriar no portal da morais",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "Em Andamento",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -31,8 +75,8 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-15",
+      "status": "Em Andamento",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -42,8 +86,8 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-15",
+      "status": "Em Andamento",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -53,8 +97,8 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-15",
+      "status": "Em Andamento",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": ""
     },
@@ -75,7 +119,7 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "Em algumas obras acontece do processo de ligação ficar parado por meses porque os medidores foram comprado, ams por algum motivo não foi instalado ou algo esta impedindo de solicitar, creio que nas obras que não forem conseguir instalar com antecedência, ou ue saibam que vão ficar com amterial an frente poderiam deixar para pedir esses medidores no momento real de isntalçao, para que não fique como pendência no sistema",
       "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
@@ -97,7 +141,7 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": "Enviada de › RAS Líderes › Projetos e Desenvolvimento › Felipe"
@@ -119,7 +163,7 @@
       "setor": "João Marcos",
       "responsavel": "João Marcos",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
@@ -130,7 +174,7 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
@@ -141,7 +185,7 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": ""
@@ -152,7 +196,7 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › João Marcos"
@@ -163,7 +207,7 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › João Marcos"
@@ -174,7 +218,7 @@
       "setor": "João Marcos",
       "responsavel": "João Marcos",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": ""
@@ -196,7 +240,7 @@
       "setor": "João Marcos",
       "responsavel": "João Marcos",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
@@ -207,7 +251,7 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
@@ -218,7 +262,7 @@
       "setor": "João Marcos",
       "responsavel": "João Marcos",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
@@ -240,7 +284,7 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-10-15",
       "obs": "CANEDO:\nInstalar somente a cx de hidrômetro no inicio da obra\n\nGOIÂNIA:\nInstalar após a finalização do reboco interno, executar muros externos e instalar padrão e cx de hidrômetro para depois executar contrapiso",
       "origem": ""
@@ -263,7 +307,7 @@
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-15",
+      "semana": "2026-10-22",
       "obs": "Concreto estrutural (viga, pilares, lajes, estacas) - Brita 0 e Areia Grossa\n\nContrapiso sarrafeado - Brita 0 e Areia Grossa\n\nContrapiso desempenado - Brita 0 e Areia média\n\nReboco - Areia fina\n\nArgamassa de assentamento - Areia média",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -274,7 +318,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-15",
+      "semana": "2026-10-22",
       "obs": "1º definir tipo de areia e brita por uso\n2º conferir o volume \n3º definir traço",
       "origem": ""
     },
@@ -285,7 +329,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-15",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -296,7 +340,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-15",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -307,7 +351,7 @@
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-15",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -318,7 +362,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-15",
+      "semana": "2026-10-22",
       "obs": "- Criar previsto e realizado com base nas medições do mestre de obra\n\n- Vincular o \"realizado\" com as medições semanais no mais controle\n\n- Definir prazos ideais para o \"previsto\" de cada serviço e cada variação de projeto",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -329,7 +373,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-15",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -340,7 +384,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-15",
+      "semana": "2026-10-22",
       "obs": "Definir marcos para inicio de novas obras \nfazer cronograma encima da medição",
       "origem": ""
     }
