@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-15T18:04:14",
+  "geradoEm": "2026-10-15T20:37:26",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -38,7 +38,7 @@
     },
     {
       "id": "3f3c5ab5-32d3-810f-a39d-c55f69235b8f",
-      "nome": "Vistoria Cliente - Fazer online \n\nCriar no portal da morais",
+      "nome": "Vistoria Cliente - Fazer online Criar no portal da morais",
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
