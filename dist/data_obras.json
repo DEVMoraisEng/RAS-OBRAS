@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-21T13:32:02",
+  "geradoEm": "2026-10-21T18:26:57",
   "statusOptions": [
     "Projeto Em Andamento",
     "Projeto Finalizado",
@@ -86,7 +86,7 @@
       "mes": "Outubro/2026",
       "status": "Nova Inclusão",
       "previsao": "2026-10-30",
-      "liberada": "NÃO",
+      "liberada": "Sim",
       "obs": ""
     },
     {
