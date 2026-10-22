@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-22T21:03:06",
+  "geradoEm": "2026-10-22T21:23:21",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -98,8 +98,8 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
-      "obs": "",
+      "semana": "2026-10-29",
+      "obs": "Alinhar com fornecedores os prazos para entrega e montar lista com datas de necessidade para acompanhamento periodico.",
       "origem": ""
     },
     {
