@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-22T18:22:28",
+  "geradoEm": "2026-10-22T21:03:06",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,50 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "401c5ab5-32d3-8182-8271-ca202df7a049",
+      "nome": "Colocar o cronograma de obras no portal e atrelar às medições semanais",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-05",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "401c5ab5-32d3-8145-907d-de20fd489470",
+      "nome": "Colocar o cronograma de obras no portal e atrelar às medições semanais",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-05",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "401c5ab5-32d3-8120-bb6e-f2d3331a1a8d",
+      "nome": "Colocar o cronograma de obras no portal e atrelar às medições semanais",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-05",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "401c5ab5-32d3-81fe-97c8-d1e43de64669",
+      "nome": "Colocar o cronograma de obras no portal e atrelar às medições semanais",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-05",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3fac5ab5-32d3-81dd-a657-c1950d8cf3a8",
       "nome": "Discutir sobre fornecedores de portões e vidros",
@@ -87,7 +131,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -318,8 +362,8 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
-      "obs": "1º definir tipo de areia e brita por uso\n2º conferir o volume \n3º definir traço",
+      "semana": "2026-10-29",
+      "obs": "1º definir tipo de areia e brita por uso\n2º conferir o volume \n3º definir traço - verificar melhor traço",
       "origem": ""
     },
     {
@@ -346,12 +390,12 @@
     },
     {
       "id": "3d7c5ab5-32d3-81f2-a55e-c932874bdf16",
-      "nome": "Discutir sobre cronograma de obra",
+      "nome": "Revisar cronograma de obra",
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -385,7 +429,7 @@
       "prioridade": "Média",
       "status": "Em Andamento",
       "semana": "2026-10-22",
-      "obs": "Definir marcos para inicio de novas obras \nfazer cronograma encima da medição",
+      "obs": "Fazer cronograma encima da medição",
       "origem": ""
     }
   ]
