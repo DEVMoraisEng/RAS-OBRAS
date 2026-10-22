@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-22T07:13:51",
+  "geradoEm": "2026-10-22T07:31:02",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -20,8 +20,8 @@
       "setor": "João Marcos",
       "responsavel": "João Marcos",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-15",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -31,8 +31,8 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-15",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -42,8 +42,8 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-15",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -53,8 +53,8 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-15",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-10-22",
       "obs": "",
       "origem": ""
     },
