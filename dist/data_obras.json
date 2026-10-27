@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-27T19:52:50",
+  "geradoEm": "2026-10-27T23:34:56",
   "statusOptions": [
     "Projeto Em Andamento",
     "Projeto Finalizado",
@@ -51,7 +51,7 @@
       "cidade": "Goiânia",
       "setor": "Portal do Oriente",
       "mes": "Outubro/2026",
-      "status": "Projeto Em Andamento",
+      "status": "Orçamento Finalizado",
       "previsao": "2026-10-26",
       "liberada": "NÃO",
       "obs": ""
@@ -62,7 +62,7 @@
       "cidade": "Goiânia",
       "setor": "Portal do Oriente",
       "mes": "Outubro/2026",
-      "status": "Projeto Em Andamento",
+      "status": "Orçamento Finalizado",
       "previsao": "2026-10-26",
       "liberada": "NÃO",
       "obs": ""
@@ -73,7 +73,7 @@
       "cidade": "Goiânia",
       "setor": "Portal do Oriente",
       "mes": "Outubro/2026",
-      "status": "Projeto Em Andamento",
+      "status": "Orçamento Finalizado",
       "previsao": "2026-10-26",
       "liberada": "NÃO",
       "obs": ""
