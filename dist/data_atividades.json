@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-29T20:21:10",
+  "geradoEm": "2026-10-29T20:38:11",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,50 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "408c5ab5-32d3-81d4-bed2-f2e88e0236c1",
+      "nome": "Criar cronograma",
+      "setor": "João Marcos",
+      "responsavel": "João Marcos",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-10-29",
+      "obs": "Criar cronograma em cima da medição com os prazos sugeridos (permitir alteração do cronograma após a criação)",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "408c5ab5-32d3-81c0-bfa0-c39a3d7f6690",
+      "nome": "Criar cronograma",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-10-29",
+      "obs": "Criar cronograma em cima da medição com os prazos sugeridos (permitir alteração do cronograma após a criação)",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "408c5ab5-32d3-81f3-9957-c10f558560ce",
+      "nome": "Criar cronograma",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-10-29",
+      "obs": "Criar cronograma em cima da medição com os prazos sugeridos (permitir alteração do cronograma após a criação)",
+      "origem": "Coparticipacao › RAS Obras › Guilherme"
+    },
+    {
+      "id": "408c5ab5-32d3-8190-ae9e-f2469cf2eadf",
+      "nome": "Criar cronograma",
+      "setor": "Guilherme",
+      "responsavel": "Guilherme",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-10-29",
+      "obs": "Criar cronograma em cima da medição com os prazos sugeridos (permitir alteração do cronograma após a criação)",
+      "origem": ""
+    },
     {
       "id": "401c5ab5-32d3-8182-8271-ca202df7a049",
       "nome": "Colocar o cronograma de obras no portal e atrelar às medições semanais",
