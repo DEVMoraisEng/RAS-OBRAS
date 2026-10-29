@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-29T02:11:00",
+  "geradoEm": "2026-10-29T08:25:14",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -65,7 +65,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -76,7 +76,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -87,7 +87,7 @@
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -109,7 +109,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -120,7 +120,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
@@ -142,7 +142,7 @@
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": ""
     },
@@ -351,7 +351,7 @@
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "Concreto estrutural (viga, pilares, lajes, estacas) - Brita 0 e Areia Grossa\n\nContrapiso sarrafeado - Brita 0 e Areia Grossa\n\nContrapiso desempenado - Brita 0 e Areia média\n\nReboco - Areia fina\n\nArgamassa de assentamento - Areia média",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -373,7 +373,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -384,7 +384,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -406,7 +406,7 @@
       "responsavel": "João Marcos",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "- Criar previsto e realizado com base nas medições do mestre de obra\n\n- Vincular o \"realizado\" com as medições semanais no mais controle\n\n- Definir prazos ideais para o \"previsto\" de cada serviço e cada variação de projeto",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -417,7 +417,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
     },
@@ -428,7 +428,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-22",
+      "semana": "2026-10-29",
       "obs": "Fazer cronograma encima da medição",
       "origem": ""
     }
