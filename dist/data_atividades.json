@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-29T20:03:38",
+  "geradoEm": "2026-10-29T20:21:10",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -131,8 +131,8 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-29",
-      "obs": "",
+      "semana": "2026-11-05",
+      "obs": "Já pode ser utilizado o app de vistoria, verificar possibilidade de adquirir um tablet para cada engenheiro e uma caneta para o tablet para facilitar assinatura do cliente",
       "origem": "Coparticipacao › RAS Obras › Isaac"
     },
     {
@@ -362,8 +362,8 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-29",
-      "obs": "1º definir tipo de areia e brita por uso\n2º conferir o volume \n3º definir traço - verificar melhor traço",
+      "semana": "2026-11-05",
+      "obs": "1º definir tipo de areia e brita por uso OK\n2º conferir o volume \n3º definir traço - verificar melhor traço",
       "origem": ""
     },
     {
@@ -427,7 +427,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
-      "status": "Em Andamento",
+      "status": "Concluído",
       "semana": "2026-10-29",
       "obs": "Fazer cronograma encima da medição",
       "origem": ""
