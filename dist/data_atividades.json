@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-04T16:54:57",
+  "geradoEm": "2026-11-04T18:28:48",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "40ec5ab5-32d3-8121-867c-eaee42a81e4b",
+      "nome": "discutir sobre medidas de requadros de janelas fora do padrão de projeto",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-29",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "408c5ab5-32d3-81d4-bed2-f2e88e0236c1",
       "nome": "Criar cronograma",
