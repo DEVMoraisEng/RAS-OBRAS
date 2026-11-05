@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-05T19:46:04",
+  "geradoEm": "2026-11-05T20:41:58",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -31,7 +31,7 @@
       "setor": "João Marcos",
       "responsavel": "João Marcos",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-11-05",
       "obs": "Criar cronograma em cima da medição com os prazos sugeridos (permitir alteração do cronograma após a criação)",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
@@ -42,7 +42,7 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-11-05",
       "obs": "Criar cronograma em cima da medição com os prazos sugeridos (permitir alteração do cronograma após a criação)",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
@@ -53,7 +53,7 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-11-05",
       "obs": "Criar cronograma em cima da medição com os prazos sugeridos (permitir alteração do cronograma após a criação)",
       "origem": "Coparticipacao › RAS Obras › Guilherme"
@@ -64,7 +64,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Alta",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-11-05",
       "obs": "Criar cronograma em cima da medição com os prazos sugeridos (permitir alteração do cronograma após a criação)",
       "origem": ""
@@ -109,7 +109,7 @@
       "responsavel": "Guilherme",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-11-05",
+      "semana": "2026-11-12",
       "obs": "",
       "origem": ""
     },
