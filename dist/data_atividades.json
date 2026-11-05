@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-05T20:41:58",
+  "geradoEm": "2026-11-05T21:00:38",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -163,7 +163,7 @@
       "setor": "João Marcos",
       "responsavel": "João Marcos",
       "prioridade": "Média",
-      "status": "Em Andamento",
+      "status": "Concluído",
       "semana": "2026-11-05",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
@@ -174,7 +174,7 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Média",
-      "status": "Em Andamento",
+      "status": "Concluído",
       "semana": "2026-11-05",
       "obs": "",
       "origem": "Coparticipacao › RAS Obras › Isaac"
@@ -185,7 +185,7 @@
       "setor": "Guilherme",
       "responsavel": "Guilherme",
       "prioridade": "Média",
-      "status": "Em Andamento",
+      "status": "Concluído",
       "semana": "2026-11-05",
       "obs": "Já pode ser utilizado o app de vistoria, verificar possibilidade de adquirir um tablet para cada engenheiro e uma caneta para o tablet para facilitar assinatura do cliente",
       "origem": "Coparticipacao › RAS Obras › Isaac"
@@ -196,7 +196,7 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
-      "status": "Em Andamento",
+      "status": "Concluído",
       "semana": "2026-11-05",
       "obs": "",
       "origem": ""
