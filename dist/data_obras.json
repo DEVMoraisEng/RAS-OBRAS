@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-09T09:18:53",
+  "geradoEm": "2026-11-09T14:17:21",
   "statusOptions": [
     "Projeto Em Andamento",
     "Projeto Finalizado",
@@ -117,7 +117,7 @@
       "cidade": "Goiânia",
       "setor": "Cond. Esmeraldas",
       "mes": "Setembro/2026",
-      "status": "Projeto Finalizado",
+      "status": "Demanda Finalizada",
       "previsao": "2026-10-12",
       "liberada": "Sim",
       "obs": ""
@@ -337,7 +337,7 @@
       "cidade": "Senador Canedo",
       "setor": "Ravena",
       "mes": "Agosto/2026",
-      "status": "Projeto Finalizado",
+      "status": "Demanda Finalizada",
       "previsao": "2026-09-28",
       "liberada": "Sim",
       "obs": ""

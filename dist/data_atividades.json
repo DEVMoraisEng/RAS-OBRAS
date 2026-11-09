@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-09T09:18:53",
+  "geradoEm": "2026-11-09T14:17:21",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "413c5ab5-32d3-81e4-b28f-c691239f4ab7",
+      "nome": "Reunião definição de canteiro Reserva dos Ipes - 12/11 as 14h",
+      "setor": "Isaac",
+      "responsavel": "Isaac",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-09",
+      "obs": "",
+      "origem": "Enviada de › RAS Líderes › Diretoria › João Vitor"
+    },
     {
       "id": "40ec5ab5-32d3-8121-867c-eaee42a81e4b",
       "nome": "discutir sobre medidas de requadros de janelas fora do padrão de projeto",
