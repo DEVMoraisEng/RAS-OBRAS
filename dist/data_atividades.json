@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-11T17:01:34",
+  "geradoEm": "2026-11-11T19:13:12",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "415c5ab5-32d3-8157-967d-f03f64247f0f",
+      "nome": "conversar sobre estagiarios que forem aumentar carga horaria",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-05",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "413c5ab5-32d3-81e4-b28f-c691239f4ab7",
       "nome": "Reunião definição de canteiro Reserva dos Ipes - 12/11 as 14h",
