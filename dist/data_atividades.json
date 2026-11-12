@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-12T07:59:46",
+  "geradoEm": "2026-11-12T09:46:03",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -20,8 +20,8 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-11-05",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-12",
       "obs": "",
       "origem": ""
     },
@@ -31,8 +31,8 @@
       "setor": "Isaac",
       "responsavel": "Isaac",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-11-09",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-12",
       "obs": "",
       "origem": "Enviada de › RAS Líderes › Diretoria › João Vitor"
     },
