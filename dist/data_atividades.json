@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-13T19:22:01",
+  "geradoEm": "2026-11-13T20:17:10",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "João Marcos"
   ],
   "atividades": [
+    {
+      "id": "417c5ab5-32d3-8129-ba1e-e3d14b2bdc30",
+      "nome": "conferir sobre montagem do cronograma de obra",
+      "setor": "João Vitor",
+      "responsavel": "João Vitor",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-12",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "415c5ab5-32d3-8157-967d-f03f64247f0f",
       "nome": "conversar sobre estagiarios que forem aumentar carga horaria",
