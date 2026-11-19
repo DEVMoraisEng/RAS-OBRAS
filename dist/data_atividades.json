@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T08:38:09",
+  "geradoEm": "2026-11-19T10:15:30",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -20,8 +20,8 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-11-12",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-19",
       "obs": "",
       "origem": ""
     },
@@ -31,8 +31,8 @@
       "setor": "João Vitor",
       "responsavel": "João Vitor",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-11-12",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-19",
       "obs": "",
       "origem": ""
     },
@@ -43,7 +43,7 @@
       "responsavel": "João Vitor",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-12",
+      "semana": "2026-11-19",
       "obs": "",
       "origem": ""
     },
@@ -54,7 +54,7 @@
       "responsavel": "Isaac",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-12",
+      "semana": "2026-11-19",
       "obs": "",
       "origem": "Enviada de › RAS Líderes › Diretoria › João Vitor"
     },
